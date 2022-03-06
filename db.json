@@ -1,0 +1,107 @@
+{
+    "users":[
+
+    ],
+    "rooms":[
+      {
+        "id": 1,
+        "name": "Python Room",
+        "beds": 1,
+        "guests": 2,
+        "price": 200,
+        "description": "Modern room in the colors of Python programming language"
+      },
+      {
+        "id": 2,
+        "name": "C++ Room ",
+        "beds": 1,
+        "guests": 2,
+        "price": 250,
+        "description": "Room with an energizing design inspired by C++ programming language. Special décor and lighting"
+      },
+      {
+        "id": 3,
+        "name": "JavaScript Room",
+        "beds": 1,
+        "guests": 2,
+        "price": 200,
+        "description": "Cozy room in the colors of JavaScript programming language"
+
+      },
+      {
+        "id": 4,
+        "name": "PHP Room",
+        "beds": 1,
+        "guests": 2,
+        "price": 200,
+        "description": "Elegant room inspired by PHP programming language"
+      },
+      {
+        "id": 5,
+        "name": "Java Room",
+        "beds": 1,
+        "guests": 2,
+        "price": 200,
+        "description": "Sophisticated room in the colors of Java programming language"
+      },
+      {
+        "id": 6,
+        "name": "Swift Room",
+        "beds": 1,
+        "guests": 2,
+        "price": 200,
+        "description": "Energizing room inspired by Swift programming language."
+      }
+    ],
+    "treatments":[
+      {
+        "id": 1,
+        "name": "Back Massage",
+        "area": "back",
+        "time": 45,
+        "price": 200,
+        "description": "Programmers' lifestyle often leads to back pain. You will get rid of it in our SPA, thanks to a professional medical massage."
+      },
+      {
+        "id": 2,
+        "name": "Hydromassage in the Garden",
+        "area": "body",
+        "time": 30,
+        "price": 100,
+        "description": "As a programmer, you often do not get enough contact with nature. A hydromassage in our beautiful garden will help you make up for it, at the same time providing relaxation and firming of the whole body!"
+
+      },
+      {
+        "id": 3,
+        "name": "Treatment for Tired Eyes",
+        "area": "face",
+        "time": 30,
+        "price": 150,
+        "description": "After a week of working in front of a computer, give your eyes relief with hyaluronic acid mask! This treatment provides a cooling, relaxing and revitalising effect."
+      },
+      {
+        "id": 4,
+        "name": "Sauna with Color Therapy",
+        "area": "body",
+        "time": 30,
+        "price": 100,
+        "description": "Working as a programmer is exceptionally satisfying, but also quite stressful. In our sauna you will not only improve your blood circulation and physical capacity, but also achieve full relaxation thanks to the power of colors."
+      },
+      {
+        "id": 5,
+        "name": "Hand Reflexotherapy",
+        "area": "hands",
+        "time": 30,
+        "price": 150,
+        "description": "After hours of using a keyboard, your hurting wrists will relax thanks to Hand Reflexotherapy. Additionally, it will unblock the energy flow in your whole body and improve the quality of your sleep!"
+      },
+      {
+        "id": 6,
+        "name": "UV and Spray Tanning",
+        "area": "body",
+        "time": 5,
+        "price": 100,
+        "description": "Everyone's telling you to go out of your basement and get some sun? With our amazing treatments you will get the perfect tan immediatelly!"
+      }
+    ]
+ }
